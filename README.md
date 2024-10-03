@@ -1,5 +1,3 @@
 # STRWeb_example
 
-example1
-
-example2
+exampl1
